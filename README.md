@@ -1,2 +1,2 @@
 # ML_python
-Machine Learning algorithm in Python
+Machine Learning algorithms in Python
